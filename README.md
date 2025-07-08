@@ -52,15 +52,6 @@ I'm a hands-on engineering leader who loves building systems that **stream**, **
 
 ---
 
-## 📦 APIs for Learning
-
-These projects help others learn API development:
-
-- 🔧 [Dummy REST APIs](https://github.com/SnehalAgrawal/about-react-dummy-apis)
-- ⚛️ [Dummy GraphQL APIs](https://github.com/SnehalAgrawal/about-react-dummy-graphql-apis)
-
----
-
 ## 📚 Technologies I Work With
 
 ```txt
