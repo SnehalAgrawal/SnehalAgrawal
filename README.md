@@ -44,14 +44,6 @@ I'm a hands-on engineering leader who loves building systems that **stream**, **
 
 ---
 
-### ⚙️ Serverless Function Demos
-- Sample templates for cloud-native functions
-- Useful for event-based architectures, cron jobs, and scalable APIs
-
-[View project](https://github.com/SnehalAgrawal/serverless-functions)
-
----
-
 ## 📚 Technologies I Work With
 
 ```txt
