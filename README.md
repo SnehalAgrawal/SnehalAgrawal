@@ -34,6 +34,7 @@ Runnable code for the article series. Each demo goes with an article and records
 | [ai-agent-patterns](https://github.com/SnehalAgrawal/ai-agent-patterns) | Runnable demos for the AI agents articles, starting with tool design: the same agent with three toolsets, and how the shape of a tool changes what the model does next. | 1 |
 | [production-ai-patterns](https://github.com/SnehalAgrawal/production-ai-patterns) | Runnable demos for the production AI articles: checks, retries, saved state, and failure handling. The first, a reliable LLM pipeline, is in progress. | in progress |
 | [distributed-ai-systems](https://github.com/SnehalAgrawal/distributed-ai-systems) | Demos for the distributed AI systems articles. The first arrives with that part of the series. | in progress |
+| [ai-tooling-examples](https://github.com/SnehalAgrawal/ai-tooling-examples) | Runnable, measured demos for the AI Tooling articles: OpenUI, Langfuse, MCP, Ollama, and LangChain, each tested with the same small fleet assistant and local models. | 5 |
 
 ## Engineering patterns
 
