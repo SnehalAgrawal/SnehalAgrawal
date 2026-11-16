@@ -23,6 +23,12 @@ Production systems I have built or led, written up at [snehalagrawal.com/work](h
 - **[Distributed Document Processing](https://snehalagrawal.com/work/distributed-document-processing/)** (47Billion): A document-processing platform for the mortgage industry, with runtime-configurable workflows and services that scale independently.
 - **[AboutReact](https://snehalagrawal.com/work/aboutreact/)**: A React Native tutorial site I built and ran for five years, growing to 20K–25K daily visitors at peak, 92% of them from search.
 
+## Projects
+
+Applications I build in the open:
+
+- **[Real-Time Voice Agent](https://github.com/SnehalAgrawal/realtime-voice-agent)**: A voice agent that runs on a laptop with no accounts: local speech-to-text, LLM, and voice, streamed over WebSockets, with barge-in, Plivo phone calls, and latency measured stage by stage.
+
 ## Article demos
 
 Runnable code for the article series. Each demo goes with an article and records the exact setup behind its numbers.
