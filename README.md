@@ -4,7 +4,7 @@
 
 I build AI-powered products at the intersection of intelligent systems, product engineering, and scalable distributed architectures. I currently work at [Hupo](https://hupo.co/), developing an AI-driven sales-enablement platform.
 
-[Website](https://snehalagrawal.com) · [Articles](https://snehalagrawal.com/articles/) · [Work](https://snehalagrawal.com/work/) · [About](https://snehalagrawal.com/about/) · [LinkedIn](https://www.linkedin.com/in/snehal-agrawal-tech-lead/) · [RSS](https://snehalagrawal.com/rss.xml)
+[Website](https://snehalagrawal.com) · [Articles](https://snehalagrawal.com/articles/) · [Work](https://snehalagrawal.com/work/) · [Notes](https://snehalagrawal.com/notes/) · [About](https://snehalagrawal.com/about/) · [LinkedIn](https://www.linkedin.com/in/snehal-agrawal-tech-lead/) · [RSS](https://snehalagrawal.com/rss.xml)
 
 ## Writing
 
@@ -55,7 +55,7 @@ Small, runnable references for data and backend systems, each measured on a real
 
 ## Notes
 
-Study notes kept as cheatsheets: system design, distributed systems, databases, backend, JavaScript, Python, cloud, observability, and engineering leadership, in [engineering-notes](https://github.com/SnehalAgrawal/engineering-notes).
+Study notes kept as cheatsheets: system design, distributed systems, databases, backend, JavaScript, Python, cloud, observability, and engineering leadership. Read them at [snehalagrawal.com/notes](https://snehalagrawal.com/notes/); the source is in [engineering-notes](https://github.com/SnehalAgrawal/engineering-notes).
 
 ## Stack
 
