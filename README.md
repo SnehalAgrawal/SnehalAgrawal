@@ -55,7 +55,7 @@ Small, runnable references for data and backend systems, each measured on a real
 
 ## Notes
 
-Study notes kept as cheatsheets: system design, distributed systems, databases, backend, JavaScript, Python, cloud, observability, and engineering leadership, in [learning-material](https://github.com/SnehalAgrawal/learning-material).
+Study notes kept as cheatsheets: system design, distributed systems, databases, backend, JavaScript, Python, cloud, observability, and engineering leadership, in [engineering-notes](https://github.com/SnehalAgrawal/engineering-notes).
 
 ## Stack
 
