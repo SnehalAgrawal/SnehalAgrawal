@@ -28,6 +28,7 @@ Production systems I have built or led, written up at [snehalagrawal.com/work](h
 Applications I build in the open:
 
 - **[Real-Time Voice Agent](https://github.com/SnehalAgrawal/realtime-voice-agent)**: A voice agent that runs on a laptop with no accounts: local speech-to-text, LLM, and voice, streamed over WebSockets, with barge-in, Plivo phone calls, and latency measured stage by stage.
+- **[Chat App with RAG](https://github.com/SnehalAgrawal/chat-app-with-rag)**: Chat with your documents on a laptop with no accounts: hybrid search, a local reranker, answers with checked citations, PDFs, and retrieval, answers, and latency measured on frozen question sets.
 
 ## Article demos
 
